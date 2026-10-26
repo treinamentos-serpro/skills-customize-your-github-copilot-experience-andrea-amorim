@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-unittest",
+      "title": "Automated Testing with unittest",
+      "description": "Practice automated testing with Python's standard unittest module, including boundary cases and reading test failures.",
+      "path": "assignments/automated-testing-unittest",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
